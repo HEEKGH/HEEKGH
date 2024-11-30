@@ -2,7 +2,7 @@
 
 ## GAHEE KIM GITHUB 👋
 
-- 👩‍💻 I’m currently learning COMPUTER SCIENCE & ENGINEERING
+- 👩‍💻 I’m currently majoring in COMPUTER SCIENCE & ENGINEERING
 - 🏫 In Korea University
 - 🌐 Club : KUICS, LIBERTY, KWEB, GDG KU
 
