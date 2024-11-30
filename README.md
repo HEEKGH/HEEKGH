@@ -26,14 +26,15 @@
 
 <br>
 
-<!-- GitHub Stats & Top Langs --> 
+<!-- GitHub Stats & Top Langs -->
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=HEEKGH&show_icons=true&theme=onedark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=HEEKGH&show_icons=true&theme=onedark" width="400" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEEKGH&layout=compact&theme=onedark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEEKGH&layout=compact&theme=onedark" width="400" />
 </p>
+
 
 
 <!--
