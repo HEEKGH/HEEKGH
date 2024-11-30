@@ -9,17 +9,17 @@
 - 📧 ajmhn0680@gmail.com
 
 ## TRYING ✏
-<p align="center">
+<p align="left">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
 </p>
 
-<p align="center">
+<p align="left">
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<p align="center">
+<p align="left">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
@@ -27,11 +27,11 @@
 <br>
 
 <!-- GitHub Stats & Top Langs -->
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=HEEKGH&show_icons=true&theme=onedark" width="400" />
 </p>
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEEKGH&layout=compact&theme=onedark" width="400" />
 </p>
 
