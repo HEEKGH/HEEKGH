@@ -5,10 +5,10 @@
 - 👩‍💻 I’m currently learning COMPUTER SCIENCE & ENGINEERING
 - 🏫 in Korea University
 
-## CONTACT ME
+## CONTACT ME 📞
 - 📧 ajmhn0680@gmail.com
 
-## TRYING
+## TRYING ✏
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEEKGH&show_icons=true&theme=radical)
