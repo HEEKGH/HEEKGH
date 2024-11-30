@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=270&section=header&text=WELCOME%20TO%20HEEKGH%20GITHUB&fontSize=50)
 
-## GAHEE KIM GITHUB 👋
+## GAHEE KIM 👋
 
 - 👩‍💻 I’m currently majoring in COMPUTER SCIENCE & ENGINEERING
 - 🏫 In Korea University
