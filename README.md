@@ -9,7 +9,7 @@
 ## CONTACT ME 📞
 - 📧 ajmhn0680@gmail.com
 
-## TRYING ✏
+## STUDYING ✏
 <p align="left">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
