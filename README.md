@@ -27,8 +27,8 @@
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" />
 </p>
 
-## PROJECTS
-- 🥥 Kuconut 웹개발 프로젝트 < On board > (2024) - Frontend / React, js, css
+## PROJECTS 💻
+- 🥥 Kuconut 웹개발 팀프로젝트 < On board > (2024) - Frontend / React, js, css
 
 <br>
 
