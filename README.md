@@ -3,7 +3,7 @@
 ## GAHEE KIM GITHUB 👋
 
 - 👩‍💻 I’m currently learning COMPUTER SCIENCE & ENGINEERING
-- 🏫 in Korea University
+- 🏫 In Korea University
 - 🌐 Club : KUICS, LIBERTY, KWEB, GDG KU
 
 ## CONTACT ME 📞
