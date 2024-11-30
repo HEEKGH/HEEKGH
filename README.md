@@ -29,6 +29,7 @@
 
 ## PROJECTS 👣
 - 🥥 Kuconut 웹개발 팀프로젝트 < On board > (2024) - Frontend / React, js, css
+  https://github.com/Kuconut
 
 <!-- GitHub Stats & Top Langs -->
 <p align="left">
