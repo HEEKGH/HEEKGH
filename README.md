@@ -27,6 +27,9 @@
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" />
 </p>
 
+## PROJECTS
+- 🥥 Kuconut 웹개발 프로젝트 <On board> (2024) - Frontend / React, js, css
+
 <br>
 
 <!-- GitHub Stats & Top Langs -->
@@ -35,6 +38,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEEKGH&layout=compact&theme=onedark" width="400", height="200" />
 
 </p>
+
 
 
 
