@@ -28,7 +28,7 @@
 </p>
 
 ## PROJECTS
-- 🥥 Kuconut 웹개발 프로젝트 < On \board > (2024) - Frontend / React, js, css
+- 🥥 Kuconut 웹개발 프로젝트 < On board > (2024) - Frontend / React, js, css
 
 <br>
 
