@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=270&section=header&text=WELCOME%20TO%20HEEKGH%20GITHUB&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=WELCOME%20TO%20HEEKGH%20GITHUB&fontSize=50)
 
 ## GAHEE KIM 👋
 
