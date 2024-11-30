@@ -1,4 +1,10 @@
-## GAGEE KIM GITHUB 👋
+## GAHEE KIM GITHUB 👋
+
+- ✏ I’m currently learning COMPUTER SCIENCE & ENGINEERING
+- 🏫 in Korea University
+
+## CONTACT ME
+- 📧 ajmhn0680@gmail.com
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WELCOME%20TO%20HEEKGH%20GITHUB&fontSize=50)
 
