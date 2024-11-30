@@ -4,6 +4,7 @@
 
 - 👩‍💻 I’m currently learning COMPUTER SCIENCE & ENGINEERING
 - 🏫 in Korea University
+- 🌐 CLUB : KUICS, LIBERTY, KWEB, GDG KU
 
 ## CONTACT ME 📞
 - 📧 ajmhn0680@gmail.com
