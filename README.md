@@ -9,11 +9,18 @@
 - 📧 ajmhn0680@gmail.com
 
 ## TRYING ✏
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEEKGH&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white>
+ 
+![HEEKGH's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEEKGH&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HEEKGH&layout=compact&theme=onedark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ajmhn0680)](https://solved.ac/ajmhn0680)
 
 <!--
 **HEEKGH/HEEKGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
