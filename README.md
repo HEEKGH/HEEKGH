@@ -4,7 +4,7 @@
 
 - 👩‍💻 I’m currently majoring in COMPUTER SCIENCE & ENGINEERING
 - 🏫 In Korea University
-- 🌐 Club : KUICS, LIBERTY, KWEB, GDG KU
+- 🌐 Club : KUICS, KWEB, GDG KU
 
 ## CONTACT ME 📞
 - 📧 ajmhn0680@gmail.com
