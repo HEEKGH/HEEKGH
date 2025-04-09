@@ -28,6 +28,8 @@
 </p>
 
 ## PROJECTS 👣
+- 🌏 Google Solution Challenge < EARTH BEAT > (2025)
+- 🗺️ 고려대학교 정보대학 NE:XT CONTEST < Travo > (2025)
 - 🥥 Kuconut 웹개발 팀프로젝트 < On board > (2024) - Frontend / React, js, css - https://github.com/Kuconut
 
 <!-- GitHub Stats & Top Langs -->
