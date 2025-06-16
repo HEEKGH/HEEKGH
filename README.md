@@ -28,14 +28,17 @@
 </p>
 
 ## PROJECTS 👣
-- 🌏 Google Solution Challenge < EARTH BEAT > (2025)
-- 🗺️ 고려대학교 정보대학 NE:XT CONTEST < Travo > (2025)
-- 🥥 Kuconut 웹개발 팀프로젝트 < On board > (2024) - Frontend / React, js, css
+- 🌏 Google Solution Challenge < EARTH BEAT > (2025) - FE, PM / React Native - https://github.com/EarthBeatOfficial/FE
+- 🗺️ 고려대학교 정보대학 NE:XT CONTEST < Travo > (2025) 🥇 대상 - FE / React - https://github.com/NE-XTLEVEL/travo
+- 🥥 Kuconut 웹개발 팀프로젝트 < On board > (2024) - FE / React
 
 <!-- GitHub Stats & Top Langs -->
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=HEEKGH&show_icons=true&theme=onedark" width="400", height="200" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEEKGH&layout=compact&theme=onedark" width="400", height="200" />
+    <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=ydmins" width="400" height="200"/>
+    [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=ajmhn0680)](https://solved.ac/ajmhn0680)
 
 </p>
 
