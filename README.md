@@ -24,7 +24,6 @@
 
 <p align="left">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
-    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" />
 </p>
 
 ## PROJECTS 👣
@@ -34,6 +33,7 @@
 
 <!-- GitHub Stats & Top Langs -->
 <p align="left">
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" />
     <img src="https://github-readme-stats.vercel.app/api?username=HEEKGH&show_icons=true&theme=onedark" width="400", height="200" />
     <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=ajmhn0680" width="400" height="200"/>
 </p>
