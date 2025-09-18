@@ -10,9 +10,9 @@
 - 📧 ajmhn0680@gmail.com
 
 ## STUDYING ✏
-<p align="center">
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="400"/>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" width="400"/>
+<div align="center">
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="60" height="20"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" width="60" height="20"/>
 <br>
     
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -23,7 +23,7 @@
 
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+</div>
 
 ## PROJECTS 👣
 - 🌏 Google Solution Challenge < EARTH BEAT > (2025) - FE, PM / React Native - https://github.com/EarthBeatOfficial/FE
