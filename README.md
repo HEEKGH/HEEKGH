@@ -5,7 +5,7 @@
 - 👩‍💻 I’m currently majoring in **computer science and engineering**
 - 🏫 In **Korea University**
 - 🌐 Club :
-<br>*current* - GDGoC KU (google developer groups)
+<br>*current* - GDGoC KU (google developer groups on campus, korea university)
 <br>*past* - KUICS (security), KWEB (web)
 <!--
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; align-items: center; margin-top: 5px;">
