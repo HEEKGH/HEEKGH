@@ -5,11 +5,15 @@
 - 👩‍💻 I’m currently majoring in **computer science and engineering**
 - 🏫 In **Korea University**
 - 🌐 Club : KUICS, KWEB, GDGoC KU
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-  <img src="https://img.shields.io/badge/GDGoC%20KU-DC143C?style=for-the-badge&logo=google&logoColor=white" alt="GDGoC KU" height="20"/>
-  <img src="https://img.shields.io/badge/KUICS-6c757d?style=for-the-badge&logo=appveyor&logoColor=white" alt="KUICS" height="20"/>
-  <img src="https://img.shields.io/badge/KWEB-6c757d?style=for-the-badge&logo=webcomponentsorg&logoColor=white" alt="KWEB" height="20"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <!-- 현재 활동: GDGOC KU -->
+  <img src="https://img.shields.io/badge/GDGoC%20KU-A2001D?style=for-the-badge&logo=google&logoColor=white" alt="GDGoC KU" height="25"/>
+  <!-- 과거 활동: KUICS (보안) -->
+  <img src="https://img.shields.io/badge/KUICS-6c757d?style=for-the-badge&logo=keycdn&logoColor=white" alt="KUICS" height="25"/>
+  <!-- 과거 활동: KWEB (웹개발) -->
+  <img src="https://img.shields.io/badge/KWEB-6c757d?style=for-the-badge&logo=html5&logoColor=white" alt="KWEB" height="25"/>
 </div>
+
 
 
 ## CONTACT ME 📞
