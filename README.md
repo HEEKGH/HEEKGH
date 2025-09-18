@@ -3,8 +3,23 @@
 ## GAHEE KIM 👋
 
 - 👩‍💻 I’m currently majoring in **computer science and engineering**
-- 🏫 In **Korea University** (Seoul, South Korea)
+- 🏫 In **Korea University**
 - 🌐 Club : KUICS, KWEB, GDGoC KU
+- ## 🌐 동아리 활동
+
+<!-- 현재 활동 중 -->
+### 현재 활동
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+  <img src="https://img.shields.io/badge/GDGoC%20KU-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GDGoC KU" height="30"/>
+</div>
+
+<!-- 과거 활동 -->
+### 과거 활동
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+  <img src="https://img.shields.io/badge/KUICS-6c757d?style=for-the-badge&logo=appveyor&logoColor=white" alt="KUICS" height="30"/>
+  <img src="https://img.shields.io/badge/KWEB-6c757d?style=for-the-badge&logo=webcomponentsorg&logoColor=white" alt="KWEB" height="30"/>
+</div>
+
 
 ## CONTACT ME 📞
 - 📧 ajmhn0680@gmail.com
