@@ -3,7 +3,7 @@
 ## GAHEE KIM 👋
 
 - 👩‍💻 I’m currently majoring in **computer science and engineering**
-- 🏫 In **Korea University**
+- 🏫 In **Korea University** (Seoul, South Korea)
 - 🌐 Club : KUICS, KWEB, GDGoC KU
 
 ## CONTACT ME 📞
