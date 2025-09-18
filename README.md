@@ -5,8 +5,8 @@
 - 👩‍💻 I’m currently majoring in **computer science and engineering**
 - 🏫 In **Korea University**
 - 🌐 Club :
-<br>*current* - GDGoC KU(google developer groups)
-<br>*past* - KUICS(security), KWEB(web)
+<br>*current* - GDGoC KU (google developer groups)
+<br>*past* - KUICS (security), KWEB (web)
 <!--
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; align-items: center; margin-top: 5px;">
   <img src="https://img.shields.io/badge/GDGoC%20KU-A2001D?style=for-the-badge&logo=google&logoColor=white" alt="GDGoC KU" height="25"/>
