@@ -4,27 +4,27 @@
 
 - 👩‍💻 I’m currently majoring in COMPUTER SCIENCE & ENGINEERING
 - 🏫 In Korea University
-- 🌐 Club : KUICS, KWEB, GDG KU
+- 🌐 Club : KUICS, KWEB, GDGoC KU
 
 ## CONTACT ME 📞
 - 📧 ajmhn0680@gmail.com
 
 ## STUDYING ✏
-<p align="left">
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" />
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" height="30" />
+<p align="center">
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
 </p>
 
-<p align="left">
-    <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="30" />
-    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="30" />
+<p align="center">
+    <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
-<p align="left">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
-    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" />
+<p align="center">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ## PROJECTS 👣
@@ -32,16 +32,13 @@
 - 🗺️ 고려대학교 정보대학 NE:XT CONTEST < Travo > (2025) 🥇 대상 - FE / React - https://github.com/NE-XTLEVEL/travo
 - 🥥 Kuconut 웹개발 팀프로젝트 < On board > (2024) - FE / React
 
-<!-- GitHub Stats & Top Langs -->
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=HEEKGH&show_icons=true&theme=onedark" width="400", height="200" />
-</p>
-
 
 
 
 <!--
-<img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=ajmhn0680" width="400" height="200"/> // 백준
+GitHub Stats & Top Langs
+<img src="https://github-readme-stats.vercel.app/api?username=HEEKGH&show_icons=true&theme=onedark" width="400", height="200" />
+<img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=ajmhn0680" width="400" height="200"/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ajmhn0680)](https://solved.ac/ajmhn0680)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEEKGH&layout=compact&theme=onedark" width="400", height="200" />
 -->
