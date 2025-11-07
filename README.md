@@ -40,7 +40,7 @@
 
 
 ## PROJECTS 👣
-- 🍽️ GDGoC worktree 팀프로젝트 < menumate > (2025) - BE, PM / Node.js, Express - working... 
+- 🍽️ GDGoC worktree 팀프로젝트 < menumate > (2025) - BE, PM / Node.js, Express - https://github.com/GDG-MenuMate [working... ]
 - 🌏 Google Solution Challenge < EARTH BEAT > (2025) - FE, PM / React Native - https://github.com/EarthBeatOfficial/FE
 - 🗺️ 고려대학교 정보대학 NE:XT CONTEST < Travo > (2025) 🥇 대상 - FE / React - https://github.com/NE-XTLEVEL/travo
 - 🥥 Kuconut 웹개발 팀프로젝트 < On board > (2024) - FE / React
