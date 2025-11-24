@@ -40,10 +40,10 @@
 
 
 ## PROJECTS 👣
-- 🐯 고려대학교 정보대학 InThon 해커톤 < KUnnect > (2025) - Design, FE / React
+- 🐯 고려대학교 정보대학 InThon < KUnnect > (2025) - Design, FE / React
 - 🍽️ GDGoC worktree 팀프로젝트 < MenuMate > (2025) - BE, PM / Node.js, Express
-- 🌏 Google Solution Challenge 대회 < EARTH BEAT > (2025) - FE, PM / React Native - https://github.com/EarthBeatOfficial/FE
-- 🗺️ 고려대학교 정보대학 NE:XT CONTEST 대회 < Travo > (2025) 🥇 대상 - FE / React - https://github.com/NE-XTLEVEL/travo
+- 🌏 Google Solution Challenge < EARTH BEAT > (2025) - FE, PM / React Native - https://github.com/EarthBeatOfficial/FE
+- 🗺️ 고려대학교 정보대학 NE:XT CONTEST < Travo > (2025) 🥇 대상 - FE / React - https://github.com/NE-XTLEVEL/travo
 - 🥥 Kuconut 웹개발 팀프로젝트 < On board > (2024) - FE / React
 
 
