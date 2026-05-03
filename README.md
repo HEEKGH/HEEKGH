@@ -40,7 +40,7 @@
 
 
 ## PROJECTS 👣
-- 📸 고려대학교 정보대학 NE:XT CONTEST < Snappy > (2026) - working... FE / React
+- 📸 고려대학교 정보대학 NE:XT CONTEST < Snappy > (2026) - FE / React - working...
 - 🐯 고려대학교 정보대학 InThon < KUnnect > (2025) 🥈 은상 - Design, FE / React
 - 🍽️ GDGoC worktree 팀프로젝트 < MenuMate > (2025) - BE, PM / Node.js, Express
 - 🌏 Google Solution Challenge < EARTH BEAT > (2025) - FE / React Native - https://github.com/EarthBeatOfficial/FE
