@@ -40,7 +40,7 @@
 
 
 ## PROJECTS 👣
-- 📝 고려대학교 정보대학 InThon < Visync > (2026) - PM, Design, Full Stack / Claude, Vite - https://github.com/ilsabullan/student
+- 📝 고려대학교 정보대학 InThon < Visync > (2026) 🥉 동상 - PM, Design, Full Stack / Claude, Vite - https://github.com/ilsabullan/student
 - 💊 고려대학교 소프트웨어공학 팀프로젝트 < InFace > (2026) - Design, FE / Claude, Figma, etc.
 - 📸 고려대학교 정보대학 NE:XT CONTEST < Snappy > (2026) 🏅 장려상 - FE / Claude, Next.js - https://github.com/2026-next/snappy
 - 🐯 고려대학교 정보대학 InThon < KUnnect > (2025) 🥈 은상 - Design, FE / Figma, React
