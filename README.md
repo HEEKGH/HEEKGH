@@ -46,8 +46,9 @@ An AI-powered service that transforms lecture materials and speech into interact
 
 - **Role:** Project Lead (PM), UI/UX Design, Frontend Development
 - **Contribution:** Led product planning and team coordination; designed and developed the student-facing experience and contributed to AI pipeline design.
-- **Tech:** React, TypeScript, Vite, Claude Design
-
+- **Tech:** React, TypeScript, Vite
+- **Design & AI Tools:** Claude Design, Claude Code, Figma
+  
 ### 02. [Travo](https://github.com/NE-XTLEVEL/travo) — LLM Travel Planner
 **🏆 Grand Prize | NE:XT CONTEST 2025**
 
@@ -73,7 +74,7 @@ An AI-powered skin analysis and personalized product recommendation service desi
 
 - **Role:** UI/UX Design, Frontend Development
 - **Contribution:** Designed user flows and interfaces, and developed frontend features for the personalized analysis and recommendation experience.
-- **Tools:** Figma, Claude Design
+- **Design & AI Tools:** Claude Design, Claude Code, Figma
 
 ## 🛠️ Technologies I've Worked With
 
@@ -93,13 +94,22 @@ An AI-powered skin analysis and personalized product recommendation service desi
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 
-**Backend & Tools**
+**Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**Development Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logoColor=white)
+
+**Design & Prototyping**
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square)
+![Claude Design](https://img.shields.io/badge/Claude_Design-D97757?style=flat-square&logoColor=white)
+
 
 ## 📂 More Projects
 
