@@ -64,7 +64,7 @@ A collaborative photo-sharing experience with AI-assisted editing, designed to m
 
 - **Role:** Frontend Development, Content Planning
 - **Contribution:** Developed frontend features and collaborated with designers and developers to turn product ideas into a working service.
-- **Tech:** React, TypeScript, Vite
+- **Tech:** React 19, TypeScript, Vite, PWA, Claude Code
 
 ### 04. InFace — AI Skin Analysis & Recommendation
 **Software Engineering Team Project | 2026**
