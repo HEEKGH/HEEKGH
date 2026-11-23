@@ -46,7 +46,7 @@ An AI-powered service that transforms lecture materials and speech into interact
 
 - **Role:** Project Lead (PM), UI/UX Design, Frontend Development
 - **Contribution:** Led product planning and team coordination; designed and developed the student-facing experience and contributed to AI pipeline design.
-- **Tech:** React, TypeScript, Vite, Claude Code
+- **Tech:** React, TypeScript, Vite, Claude Design
 
 ### 02. [Travo](https://github.com/NE-XTLEVEL/travo) — LLM Travel Planner
 **🏆 Grand Prize | NE:XT CONTEST 2025**
@@ -73,7 +73,7 @@ An AI-powered skin analysis and personalized product recommendation service desi
 
 - **Role:** UI/UX Design, Frontend Development
 - **Contribution:** Designed user flows and interfaces, and developed frontend features for the personalized analysis and recommendation experience.
-- **Tools:** Figma, Claude Code
+- **Tools:** Figma, Claude Design
 
 ## 🛠️ Technologies I've Worked With
 
